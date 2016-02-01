@@ -1,0 +1,28 @@
+name: Political SNAFU
+favicon: null
+layout_spectrum: 0.4372417232953012
+typography_spectrum: 0.922841037157923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10968381771817803
+  lightness: 0.44317415123805404
+  saturation: 0.9117421426344663
+  rhythmicContrast: 0.1275752189103514
+purpose: []
