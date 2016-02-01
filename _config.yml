@@ -1,6 +1,6 @@
 name: Political SNAFU
 favicon: null
-layout_spectrum: 0.7449
+layout_spectrum: 0.74961
 typography_spectrum: 0.922841037157923
 title: Political SNAFU
 cta:
@@ -23,7 +23,7 @@ color:
     - '#d3272c'
     - '#768994'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
