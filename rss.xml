@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Political SNAFU]]></title>
         <description><![CDATA[Political SNAFU]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/political-snafu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 10:44:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 10:44:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/political-snafu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lawmaker postpones voting against unpaid parental leave to take his sick kid to the doctor]]></title>
+            <description><![CDATA[<article><h1>Lawmaker postpones voting against unpaid parental leave to take his sick kid to the doctor</h1><p>Lawmaker postpones voting against unpaid parental leave to take his sick kid to the doctor Last week Rep. Kevin Priola asked the House Education Committee to postpone a vote on a bill that would allow parents to take an unpaid leave to go to their children's school activities. Why the delay?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4222df9c00af1da5c0e186623df8ff8cef5fd7d.jpg"></article>]]></description>
+            <link>http://www.coloradoindependent.com/157400/lawmaker-postpones-voting-against-unpaid-parental-leave-to-take-his-sick-kid-to-the-doctor</link>
+            <guid isPermaLink="false">d09c7a2c-4563-4325-a53a-33c7100dc427</guid>
+            <pubDate>Mon, 01 Feb 2016 10:44:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Donald Trump: Africans are 'lazy fools only good at eating, lovemaking and thuggery'?]]></title>
             <description><![CDATA[<article><h1>Donald Trump: Africans are 'lazy fools only good at eating, lovemaking and thuggery'?</h1><p>Claim: Donald Trump said Africans are "lazy fools only good at eating, lovemaking and thuggery." Example: [ Collected via e-mail, October 2015] A friend and I have been arguing back and forth about this article saying that Trump claimed Africans are lazy and are only good at sex and stealing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b5dbaccafe6c54d6e9fc64a5f81a97e26dc363a.jpg"></article>]]></description>
